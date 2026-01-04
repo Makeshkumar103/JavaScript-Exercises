@@ -1,6 +1,5 @@
 //'this' refers to the object that is executing the current function. Its value depends on how the function is called. 
 
-
 const user = {  name: 'Alice',
   age: 30,
   greet: function() {
